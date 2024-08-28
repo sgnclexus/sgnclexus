@@ -1,26 +1,17 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=800px height=200px src="https://images.unsplash.com/photo-1563085463-3761d7041366?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="sgnclexus profile"></a>
 </p>
 
 <h3 align="center">Data & Other Projects</h3>
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> My name is Cesar Castillo and I'm passionate about data.
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 My Main Projects
 
 - [About](#about)
 - [Getting Started](#getting_started)
@@ -29,7 +20,7 @@
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
+- [Little Steps](https://github.com/sgnclexus/Data_to_all)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About Me <a name = "about"></a>
@@ -109,6 +100,8 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+| Rank | Experience |
+|-----:|---------------|
+|     1|SQL            |
+|     2|Python         |
+|     3|R              |
