@@ -32,9 +32,9 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 About Me <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+My name is Cesar Castillo and I'm passionate about data.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
