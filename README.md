@@ -17,7 +17,7 @@
 - [Main Projects](#📝-main-projects)
 - [Experience](#🎉-experience)
 
-## 🧐 About Me <a name = "about"></a>
+## 🧐 About Me <a name = "🧐-about-me"></a>
 
 Data enthusiast with extensive experience in IT innovation, data analysis, and software development. Proven
 track record of optimizing operational processes and enhancing productivity through the implementation of data-
