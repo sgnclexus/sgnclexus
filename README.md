@@ -25,12 +25,12 @@ driven solutions. Adept at leading teams, overseeing system migrations, and deve
 informed decision-making. Seeking to leverage expertise in data analytics and automation to drive commercial
 success at any place.
 
-## 📝 Main Projects <a name = "mainprojects"></a>
+## 📝 Main Projects <a name = "📝-main-projects"></a>
 - [Estimated Time Arrival](https://github.com/sgnclexus/ETA_Home_School)
 - [Merge csv to LaTeX](https://github.com/sgnclexus/ReadingPDFs)
 - [Step by Step](https://github.com/sgnclexus/Data_to_all)
 
-## 🎉 Experience <a name = "experience"></a>
+## 🎉 Experience <a name = "🎉-experience"></a>
 
 | Rank | Experience |
 |-----:|---------------|
